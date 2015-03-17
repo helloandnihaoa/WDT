@@ -1,2 +1,12 @@
-# homework2
-# homework2
+# HOMEWORK:
+### List another three HTML tags.
+--------------
+### Yujiayi
+--------------
+**&lt;div>**
+A limited "box", it can make two or more things be together.
+**&lt;style>**
+To delimit the style, such as the font-size and font-color of the paragraph.
+**align="center"**
+To make something be in the center.
+For exsample, **&lt;h1 align="center">** can make the first header be in the center.
