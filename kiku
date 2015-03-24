@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head><meta http-equiv="Content-Type" content="text/html; charset=GBK">
+	<title>kiku</title>
+	<style type="text/css">
+	img{
+		height: 50em;
+	}
+	.kiku{
+		font-size: 15em;
+		font-family: "Hobo Std",Bradley Hand Bold;
+		color: white;
+		position:absolute;
+		z-index:2;
+		left: 80px;
+		top: -155px;
+		}
+	.word{
+		font-size: 2em;
+		font-family: "Lithos Pro Regular";
+		position:absolute;
+		z-index:2;
+		left: 80px;
+		right: 50px;
+		top: -15px;	
+		color: white;
+	}
+	body{
+  		background-color: gray;
+ 	}
+ 	a:link {color: white;}
+	a:visited {color: gray;}
+	a:hover {color: black;}
+	</style>
+</head>
+<body>
+	<div style="position:relative;">
+		<img src="black-white-background-2.jpg" class="picture">
+			<div class="kiku"><h1>KIKU</h1>
+			</div>
+	</div>
+	<div style="position:relative;">
+		<p class="word"><strong>Chrysanthemums</strong>, sometimes called mums or chrysanths, are flowering plants of the genus Chrysanthemum in the family Asteraceae. They are native to Asia and northeastern Europe.<a href="http://en.wikipedia.org/" target="_blank">Wikipedia</a>
+		<br>
+		<br>
+		<strong>Scientific name:</strong> Chrysanthemum
+		<br>
+		<strong>Rank:</strong> Genus
+		<br>
+		<strong>Higher classification:</strong> Anthemideae
+		<br>
+		<strong>Lower classifications:</strong> Pyrethrum, Chrysanthemum pacificum, Glebionis coronaria
+		</p>
+	</div>
+</body>
+</html>
